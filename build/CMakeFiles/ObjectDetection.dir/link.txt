@@ -1,0 +1,3 @@
+"D:\Other\Program Files (x86)\cmake-3.30.4-windows-x86_64\bin\cmake.exe" -E rm -f CMakeFiles\ObjectDetection.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\ObjectDetection.dir/objects.a @CMakeFiles\ObjectDetection.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ObjectDetection.dir/objects.a -Wl,--no-whole-archive -o ObjectDetection.exe -Wl,--out-implib,libObjectDetection.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ObjectDetection.dir\linkLibs.rsp

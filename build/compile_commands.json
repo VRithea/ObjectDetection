@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Other/Files/ObjectDetection/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ObjectDetection.dir/includes_CXX.rsp -g -o CMakeFiles\\ObjectDetection.dir\\src\\Main.cpp.obj -c D:\\Other\\Files\\ObjectDetection\\src\\Main.cpp",
+  "file": "D:/Other/Files/ObjectDetection/src/Main.cpp",
+  "output": "CMakeFiles/ObjectDetection.dir/src/Main.cpp.obj"
+}
+]
