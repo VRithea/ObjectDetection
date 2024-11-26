@@ -1,8 +1,8 @@
 [
 {
-  "directory": "D:/Other/Files/ObjectDetection/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/ObjectDetection.dir/includes_CXX.rsp -g -o CMakeFiles\\ObjectDetection.dir\\src\\Main.cpp.obj -c D:\\Other\\Files\\ObjectDetection\\src\\Main.cpp",
-  "file": "D:/Other/Files/ObjectDetection/src/Main.cpp",
-  "output": "CMakeFiles/ObjectDetection.dir/src/Main.cpp.obj"
+  "directory": "/home/delta/ObjectDetection/build",
+  "command": "/usr/bin/c++ -isystem /usr/include/opencv4 -g -o CMakeFiles/ObjectDetection.dir/src/Main.cpp.o -c /home/delta/ObjectDetection/src/Main.cpp",
+  "file": "/home/delta/ObjectDetection/src/Main.cpp",
+  "output": "CMakeFiles/ObjectDetection.dir/src/Main.cpp.o"
 }
 ]
